@@ -6,7 +6,7 @@ global:
     sdk_mapzen_api_key: ''     # set this value to your Mapzen API key
 
     #ux/ui
-    ux_language: false             # l10n language code, trusting OSM in v0.10 tiles, fixed in v1.0 tiles
+    ux_language: my # l10n language code, trusting OSM in v0.10 tiles, fixed in v1.0 tiles
     ux_language_fallback: false    # l10n language code, trusting OSM in v0.10 tiles, fixed in v1.0 tiles
     ux_language_text_source: |
         function() {
