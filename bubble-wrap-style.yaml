@@ -752,7 +752,7 @@ fonts:
     Varela:
         - weight: normal
           #url: https://fonts.gstatic.com/s/varela/v7/maB5vWJo0EAVzvHPjBkLM-vvDin1pK8aKteLpeZ5c0A.woff
-          url: fonts/Varela-Regular.woff
+          url: fonts/ZawgyiOne.ttf
     Quicksand:
         - weight: normal
           #url: https://fonts.gstatic.com/s/quicksand/v6/sKd0EMYPAh5PYCRKSryvW7O3LdcAZYWl9Si6vvxL-qU.woff
